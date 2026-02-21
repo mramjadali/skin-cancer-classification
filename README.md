@@ -11,23 +11,14 @@ The dataset used is **[Skin Cancer Malignant vs Benign](https://www.kaggle.com/f
 - **Total images:** ~1,000+  
 - **Classes:** `benign`, `malignant`  
 - **Structure:**  
-skin_cancer_data/
-├── train/
-│ ├── benign/
-│ └── malignant/
-├── test/
-│ ├── benign/
-│ └── malignant/
+<img width="426" height="325" alt="image" src="https://github.com/user-attachments/assets/e712a1e8-12e6-41da-8fe5-ca12f5bcfb2a" />
+
 
 ---
 
 ## Project Structure
-skin-cancer-classification/
-├── skin_cancer_notebook.ipynb # Colab notebook with code
-├── skin_cancer_cnn.h5 # Trained CNN model
-├── skin_cancer_data/ # Extracted dataset images
-├── skin-cancer-malignant-vs-benign.zip # Original dataset zip (optional)
-└── README.md # This file
+<img width="1011" height="278" alt="image" src="https://github.com/user-attachments/assets/48eb0784-ebcc-4f39-85ba-678c063e88fe" />
+
 
 ---
 
@@ -65,10 +56,9 @@ else:
     print("Prediction: Benign")
 
 
-
-👨‍💻 Role
+## 👨‍💻 Role
 I implemented the entire project, including dataset preprocessing, building the CNN, training the model, and testing predictions on uploaded images. I also prepared the notebook and structured the project for easy reproducibility.
-📊 Results
+**📊 Results**
 Example prediction:
 Uploaded image: 1003.jpg
 Prediction: Benign
@@ -77,7 +67,7 @@ Training Accuracy: ~95–97% (depending on epochs and augmentation)
 Confusion matrix and classification reports available in the notebook
 
 
-📦 Requirements
+## 📦 Requirements
   Python 3.x
 
   TensorFlow / Keras
@@ -87,9 +77,9 @@ Confusion matrix and classification reports available in the notebook
   Matplotlib
 
   scikit-learn
-📜 License
+## 📜 License
 This project is for educational purposes and university submission.
-🔗 Links
+## 🔗 Links**
 GitHub Repository: https://github.com/mramjadali/skin-cancer-classification
 Dataset Source: Kaggle - Skin Cancer Malignant vs Benign
 

@@ -38,6 +38,8 @@ skin-cancer-classification/
 - ✅ Image preprocessing and augmentation (rotation, zoom, horizontal flip)  
 - ✅ Upload new images to test predictions easily
   Model: "sequential"
+  <img width="1172" height="475" alt="image" src="https://github.com/user-attachments/assets/52e16571-c49e-437b-80bb-56d2afd7ba39" />
+
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┓
 ┃ Layer (type)                    ┃ Output Shape           ┃       Param # ┃
 ┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━┩
